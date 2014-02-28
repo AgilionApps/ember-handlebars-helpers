@@ -1,0 +1,27 @@
+{
+  "name": "ember-handlebars-helpers",
+  "version": "0.1.0",
+  "description": "A collection of Ember Handlebars helpers that have been useful across multiple projects.",
+  "main": "ember-handlebars-helpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgilionApps/ember-handlebars-helpers.git"
+  },
+  "keywords": [
+    "ember",
+    "handlebars",
+    "helpers"
+  ],
+  "author": "Patrick Berkeley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgilionApps/ember-handlebars-helpers/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "grunt-bump-build-git": "^1.1.1"
+  }
+}

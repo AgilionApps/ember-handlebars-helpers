@@ -1,0 +1,24 @@
+{
+  "name": "ember-handlebars-helpers",
+  "description": "A collection of Ember Handlebars helpers that have been useful across multiple projects.",
+  "homepage": "https://github.com/AgilionApps/ember-handlebars-helpers",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgilionApps/ember-handlebars-helpers.git"
+  },
+  "keywords": [
+    "ember",
+    "handlebars",
+    "helpers"
+  ],
+  "version": "0.1.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "main": "./ember-handlebars-helpers.js",
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "ember": ">= 1.5"
+  }
+}
