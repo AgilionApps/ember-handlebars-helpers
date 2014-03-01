@@ -45,6 +45,8 @@ Ember.Handlebars.helper('format-date', function(date, options) {
     dateString = moment(date).fromNow();
   } else if (options.hash.short) {
     dateString = moment(date).format('MMM DD');
+  } else if (options.hash.datetime) {
+    dateString = moment(date).format('YYYY-MM-DD HH:MM:ss');
   } else {
     dateString = moment(date).format('MM/DD/YYYY');
   }

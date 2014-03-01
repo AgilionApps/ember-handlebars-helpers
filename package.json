@@ -1,6 +1,6 @@
 {
   "name": "ember-handlebars-helpers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of Ember Handlebars helpers that have been useful across multiple projects.",
   "main": "ember-handlebars-helpers.js",
   "scripts": {
